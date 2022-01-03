@@ -1,6 +1,6 @@
 Host gitlab.grupointegrado.br
  HostName gitlab.grupointegrado.br
- IdentityFile ~/integrado/.ssh/id_rsa
+ IdentityFile ~/arquivos/projects/integrado/.ssh/id_rsa
 Host 10.1.1.75
  HostName 10.1.1.75
- IdentityFile ~/integrado/.ssh/id_rsa
+ IdentityFile ~/arquivos/projects/integrado/.ssh/id_rsa
