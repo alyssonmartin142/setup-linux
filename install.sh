@@ -108,7 +108,8 @@ echo "Instalação Telegram"
 flatpak install flathub org.telegram.desktop -y
 
 echo "Instalação Flameshot"
-flatpak install flathub org.flameshot.Flameshot -y
+# flatpak install flathub org.flameshot.Flameshot -y
+sudo apt install flameshot
 
 echo "Instalação Bitwarden"
 flatpak install flathub com.bitwarden.desktop -y
